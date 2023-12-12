@@ -42,7 +42,7 @@ export default function about() {
                   textDecoration: "none",
                   color: "#007bff",
                 }}
-                href="/ai-player"
+                href="https://ai-music-player-360.netlify.app/"
               >
                 AI Player
               </a>
