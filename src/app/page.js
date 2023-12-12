@@ -97,7 +97,7 @@ export default function Home() {
             songs that will match your mood.
           </h2>
           <div id="version" style={{ marginTop: "auto", textAlign: "center" }}>
-            <h5>Version 1.2</h5>
+            <h5>Version 1.2.2</h5>
           </div>
         </div>
       </div>
